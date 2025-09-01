@@ -6,12 +6,6 @@
 
 **Fullstack Web Developer** with over 5 years of experience passionate about technology and its impact in our lives
 
-🌱 Currently learning **Web3 & Blockchain**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angeldavid218)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-
 </div>
 
 ---
